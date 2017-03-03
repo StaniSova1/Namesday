@@ -1,0 +1,17 @@
+h2 {
+	color: white;
+	text-align: center;
+}
+body {
+	background-color: black;
+}
+div {
+	text-align: center;
+	color: white;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    }
